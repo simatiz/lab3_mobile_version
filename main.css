@@ -120,7 +120,7 @@ li a:hover{
     padding-right: 10px;
 
     background-color: lightgray;
-    font-size: medium;
+    font-size: large;
     text-align: justify;
 }
 
@@ -166,7 +166,7 @@ li a:hover{
     border: 3px solid black;
 
     text-align: center;
-    padding-top: 35px;
+    padding-bottom: 25px;
 
     font-size: large;
 }
